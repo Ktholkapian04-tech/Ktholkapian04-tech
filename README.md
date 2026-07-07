@@ -63,7 +63,7 @@ Git â€¢ Excel
 
 ## ðŸ“Š GitHub Stats
 
-Replace `YOUR_USERNAME` if needed.
+Replace `Ktholapian04-tech` if needed.
 
 ``` md
 ![Stats](https://github-readme-stats.vercel.app/api?username=Ktholkapian04-tech&show_icons=true)
